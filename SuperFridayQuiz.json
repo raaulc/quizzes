@@ -1,0 +1,184 @@
+{
+    "title": "Super Friday Quiz",
+    "marking-occurs": "at-quiz-end",
+    "rounds": [{
+        "name": "Setup",
+        "questions": [{
+            "question": "Enter your name:",
+            "type": "short-answer",
+            "answer": "Any"
+        }]
+    },{
+        "name": "Music Round",
+        "questions": [{
+            "question": "What year was the original Live Aid?",
+            "type": "short-answer",
+            "answer": "1985"
+        }, {
+            "question": "Which singer’s real name was Farrokh Bulsara?",
+            "type": "short-answer",
+            "answer": "Freddie Mercury"
+        }, {
+            "question": "Which huge, modern day British artist was born in Halifax, Yorkshire?",
+            "type": "short-answer",
+            "answer": "Ed Sheeran"
+        }, {
+            "question": "Rocketman is a 2019 biographical musical film based on the life of which British musician?",
+            "type": "short-answer",
+            "answer": "Elton John"
+        }, {
+            "question": "What is the name of Amy Winehouse's debut album?",
+            "type": "short-answer",
+            "answer": "Frank"
+        }, {
+            "question": "In which city did The Courteeners from?",
+            "type": "short-answer",
+            "answer": "Manchester"
+        }, {
+            "question": "What hit single did Queen release in 1975 on the album, A Night at the Opera?",
+            "type": "short-answer",
+            "answer": "Bohemian Rhapsody"
+        }, {
+            "question": "Which famous British band was named first as Pectoralz?",
+            "type": "short-answer",
+            "answer": "Coldplay"
+        }, {
+            "question": "Keith Richards and Mick Jagger are songwriters of many songs of which band?",
+            "type": "short-answer",
+            "answer": "Rolling Stones"
+        }, {
+            "question": "Kashmir is the famous song by which English Rock band?",
+            "type": "short-answer",
+            "answer": "Led Zeppelin"
+        }]
+    },{
+        "name": "Geography Round",
+        "questions": [{
+            "question": "What is the largest country in South America?",
+            "type": "short-answer",
+            "answer": "Brazil"
+        }, {
+            "question": "What country is called Land of Fire and Ice?",
+            "type": "short-answer",
+            "answer": "Iceland"
+        }, {
+            "question": "What is the only territory of the mainland Americas that still belongs to a European country?",
+            "type": "short-answer",
+            "answer": "French Guiana"
+        }, {
+            "question": "What is the highest active volcano in Europe?",
+            "type": "short-answer",
+            "answer": "Mount Etna"
+        }, {
+            "question": "Which city is also known as The Eternal City?",
+            "type": "short-answer",
+            "answer": "Rome"
+        }, {
+            "question": "Baku is the capital city of which eastern European country?",
+            "type": "short-answer",
+            "answer": "Azarbaijan"
+        }, {
+            "question": "Which country’s name could be part of a Christmas dinner?",
+            "type": "short-answer",
+            "answer": "Turkey"
+        }, {
+            "question": "What did Ceylon change its name to in 1972?",
+            "type": "short-answer",
+            "answer": "Sri Lanka"
+        }, {
+            "question": "On the London Tube network, which is the only station to begin with the letter i?",
+            "type": "short-answer",
+            "answer": "Ickenham"
+        }, {
+            "question": "What is the largest desert in the world?",
+            "type": "short-answer",
+            "answer": "Antarctica"
+        }]
+    }, {
+        "name": "London Eatery Round 🇬🇧",
+        "questions": [{
+            "question": "At which restaurant can you enjoy your meal in total darkness and be served by blind waiters?",
+            "type": "short-answer",
+            "answer": "Dans Le Noir"
+        }, {
+            "question": "Where would you find critically acclaimed Turkish restaurant Black Axe Mangal?",
+            "type": "short-answer",
+            "answer": "islington"
+        }, {
+            "question": "Where can you eat the famous Venimoo burger, loaded with beef & venison patties & béarnaise sauce?",
+            "type": "short-answer",
+            "answer": "Mac & Wild"
+        }, {
+            "question": "Which London restaurant is famous for its 'press for champagne' button?",
+            "type": "short-answer",
+            "answer": "Bob Bob Ricard"
+        }, {
+            "question": "Which world-famous restaurant can be found at 68 Royal Hospital Rd?",
+            "type": "short-answer",
+            "answer": "Restaurant Gordon Ramsay"
+        }, {
+            "question": "Which celeb hotspot is famous for its crab doughnuts?",
+            "type": "short-answer",
+            "answer": "Chiltern Firehouse"
+        }, {
+            "question": "Mele e Pere is known for serving which type of cuisine?",
+            "type": "short-answer",
+            "answer": "Italian"
+        }, {
+            "question": "Chinese restaurant Chai Wu can be found in which famous store?",
+            "type": "short-answer",
+            "answer": "Harrods"
+        }, {
+            "question": "Which restaurant  is believed to be London's oldest restaurant?",
+            "type": "short-answer",
+            "answer": "Rules, Established in 1798"
+        }, {
+            "question": "MasterChef winner Thomasina Miers founded which restaurant chain?",
+            "type": "short-answer",
+            "answer": "Wahaca"
+        }]
+    }, {
+        "name": "Business Quiz ",
+        "questions": [{
+            "question": "Which company was originally called Cadabra, like the magic term “abracadabra”?",
+            "type": "short-answer",
+            "answer": "Amazon"
+        }, {
+            "question": "Which company’s first name was BackRub?",
+            "type": "short-answer",
+            "answer": "Google"
+        }, {
+            "question": "Netflix founders Reed Hastings and Marc Randolph offered to sell the company which company? ",
+            "type": "short-answer",
+            "answer": "Blockbuster"
+        }, {
+            "question": "Who famously advised zuckerberg to drop “The” from “The Facebook?",
+            "type": "short-answer",
+            "answer": "Sean Parker"
+        }, {
+            "question": "Widely used Prefix NS in Objective C is based on which OS developed by Job’s old company he built after being fired from Apple?",
+            "type": "short-answer",
+            "answer": "Next Step"
+        }, {
+            "question": "Which Microblogging platform and social networking website founded by David Karp in 2007?",
+            "type": "short-answer",
+            "answer": "Tumblr"
+        }, {
+            "question": "M&S was founded in 1884 by Michael Marks and Thomas Spencer in which city?",
+            "type": "short-answer",
+            "answer": "Leeds"
+        }, {
+            "question": "In 1928, M&S entered into long-term relationships with British manufacturers, and sold clothes and food under which brand all these happened in 1928?",
+            "type": "short-answer",
+            "answer": "St Michael"
+        }, {
+            "question": "The uncompromising attitude towards customer relations was summarised by the which 1953 slogan?",
+            "type": "short-answer",
+            "answer": "The customer is always and completely right!"
+        }, {
+            "question": "The company expanded internationally with which country in 1973?",
+            "type": "short-answer",
+            "answer": "Canada"
+        }]
+    }]
+}
